@@ -16,7 +16,7 @@
 
 | No | Topic |
 | -------------- | --------------- |
-| 1 | Installing Android Studio |
+| 1 | [Installing Android Studio](./Android/2.1.installing_android_studio.md) |
 | 2 | Making an Android Emulator |
 | 3 | Connecting Emulator with a Proxy server |
 
