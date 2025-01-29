@@ -11,6 +11,7 @@
 | 4 | [Android SELinux](./Android/1.4.android_selinux.md)  |
 | 5 | [Android Encryption](./Android/1.5.encryption.md)  |
 | 6 | [Android Updates](./Android/1.6.updates.md)  |
+| 6 | [Android Fundamental Components](./Android/1.6.updates.md)  |
 
 ## Setting up lab / pentesting environment
 
